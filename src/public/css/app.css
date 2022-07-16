@@ -1,0 +1,17 @@
+body {
+  font: optional; }
+
+h1 {
+  color: green; }
+.checkbox-select-all-options{
+    width: 200px ;
+}
+.user_avatar{
+  width: 28px;
+  height: 28px;
+  margin-right: 4px;
+  border-radius: 50% !important;
+}
+.select-all-center{
+  margin-top: -17px !important;
+}
